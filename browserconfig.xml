@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<browserconfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="browserconfig.xsd">
+<browserconfig
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="browserconfig.xsd">
 	<msapplication>
 		<tile>
 			<square150x150logo src="/mstile-150x150.png?v8=qAJ44G5Bm7" />
