@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.8e4e82b6.css",
-    "main.js": "/static/js/main.d89e51fb.js",
+    "main.js": "/static/js/main.a29a322a.js",
     "static/css/580.fe691f2c.chunk.css": "/static/css/580.fe691f2c.chunk.css",
     "static/js/580.8cec0c31.chunk.js": "/static/js/580.8cec0c31.chunk.js",
     "static/css/59.1a5a64f5.chunk.css": "/static/css/59.1a5a64f5.chunk.css",
     "static/js/59.0c731434.chunk.js": "/static/js/59.0c731434.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/CurriculumVitae_ChiChung_Au.pdf": "/static/media/CurriculumVitae_ChiChung_Au.0845c45a6e49f1c75b35.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/CurriculumVitae_ChiChung_Au.pdf": "/static/media/CurriculumVitae_ChiChung_Au.b6d584808f38ce61cfbd.pdf",
     "static/media/ive-white-logo.png": "/static/media/ive-white-logo.863530df94f28ef06592.png",
     "static/media/ouhk-white-logo.png": "/static/media/ouhk-white-logo.0683d6176cecae942040.png",
     "static/media/contactMail.webp": "/static/media/contactMail.298a597edb8258fc13e5.webp",
@@ -25,7 +25,7 @@
     "static/media/pageError.svg": "/static/media/pageError.532ea75dc935139db4aeeaeca0f2dd98.svg",
     "index.html": "/index.html",
     "main.8e4e82b6.css.map": "/static/css/main.8e4e82b6.css.map",
-    "main.d89e51fb.js.map": "/static/js/main.d89e51fb.js.map",
+    "main.a29a322a.js.map": "/static/js/main.a29a322a.js.map",
     "580.fe691f2c.chunk.css.map": "/static/css/580.fe691f2c.chunk.css.map",
     "580.8cec0c31.chunk.js.map": "/static/js/580.8cec0c31.chunk.js.map",
     "59.1a5a64f5.chunk.css.map": "/static/css/59.1a5a64f5.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.8e4e82b6.css",
-    "static/js/main.d89e51fb.js"
+    "static/js/main.a29a322a.js"
   ]
 }
