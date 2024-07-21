@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.89bca362.css",
-    "main.js": "/static/js/main.e91adf35.js",
+    "main.js": "/static/js/main.da33b989.js",
     "static/css/791.c030af45.chunk.css": "/static/css/791.c030af45.chunk.css",
     "static/js/791.494caa33.chunk.js": "/static/js/791.494caa33.chunk.js",
     "static/css/430.6cd31d9f.chunk.css": "/static/css/430.6cd31d9f.chunk.css",
@@ -21,7 +21,7 @@
     "static/media/smartone-solution-logo.png": "/static/media/smartone-solution-logo.9d12ae169ee3c67386c0.png",
     "index.html": "/index.html",
     "main.89bca362.css.map": "/static/css/main.89bca362.css.map",
-    "main.e91adf35.js.map": "/static/js/main.e91adf35.js.map",
+    "main.da33b989.js.map": "/static/js/main.da33b989.js.map",
     "791.c030af45.chunk.css.map": "/static/css/791.c030af45.chunk.css.map",
     "791.494caa33.chunk.js.map": "/static/js/791.494caa33.chunk.js.map",
     "430.6cd31d9f.chunk.css.map": "/static/css/430.6cd31d9f.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.89bca362.css",
-    "static/js/main.e91adf35.js"
+    "static/js/main.da33b989.js"
   ]
 }
