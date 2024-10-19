@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.89bca362.css",
-    "main.js": "/static/js/main.9c8e9447.js",
+    "main.js": "/static/js/main.8990b113.js",
     "static/css/791.c030af45.chunk.css": "/static/css/791.c030af45.chunk.css",
     "static/js/791.494caa33.chunk.js": "/static/js/791.494caa33.chunk.js",
     "static/css/430.6cd31d9f.chunk.css": "/static/css/430.6cd31d9f.chunk.css",
     "static/js/430.8cfd8672.chunk.js": "/static/js/430.8cfd8672.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/CurriculumVitae_ChiChung_Au.pdf": "/static/media/CurriculumVitae_ChiChung_Au.c352fdc3d8ad52357a84.pdf",
+    "static/media/CurriculumVitae_ChiChung_Au.pdf": "/static/media/CurriculumVitae_ChiChung_Au.3e866fafb50438fb09f1.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/ive-white-logo.png": "/static/media/ive-white-logo.863530df94f28ef06592.png",
     "static/media/ouhk-white-logo.png": "/static/media/ouhk-white-logo.0683d6176cecae942040.png",
@@ -21,7 +21,7 @@
     "static/media/smartone-solution-logo.png": "/static/media/smartone-solution-logo.9d12ae169ee3c67386c0.png",
     "index.html": "/index.html",
     "main.89bca362.css.map": "/static/css/main.89bca362.css.map",
-    "main.9c8e9447.js.map": "/static/js/main.9c8e9447.js.map",
+    "main.8990b113.js.map": "/static/js/main.8990b113.js.map",
     "791.c030af45.chunk.css.map": "/static/css/791.c030af45.chunk.css.map",
     "791.494caa33.chunk.js.map": "/static/js/791.494caa33.chunk.js.map",
     "430.6cd31d9f.chunk.css.map": "/static/css/430.6cd31d9f.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.89bca362.css",
-    "static/js/main.9c8e9447.js"
+    "static/js/main.8990b113.js"
   ]
 }
