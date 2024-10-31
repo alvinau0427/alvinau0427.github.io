@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.89bca362.css",
-    "main.js": "/static/js/main.8990b113.js",
+    "main.css": "/static/css/main.9d8ada2e.css",
+    "main.js": "/static/js/main.18b4e937.js",
     "static/css/791.c030af45.chunk.css": "/static/css/791.c030af45.chunk.css",
     "static/js/791.494caa33.chunk.js": "/static/js/791.494caa33.chunk.js",
     "static/css/430.6cd31d9f.chunk.css": "/static/css/430.6cd31d9f.chunk.css",
@@ -20,15 +20,15 @@
     "static/media/bea-mall-logo.png": "/static/media/bea-mall-logo.f7cac54edb72faac6e89.png",
     "static/media/smartone-solution-logo.png": "/static/media/smartone-solution-logo.9d12ae169ee3c67386c0.png",
     "index.html": "/index.html",
-    "main.89bca362.css.map": "/static/css/main.89bca362.css.map",
-    "main.8990b113.js.map": "/static/js/main.8990b113.js.map",
+    "main.9d8ada2e.css.map": "/static/css/main.9d8ada2e.css.map",
+    "main.18b4e937.js.map": "/static/js/main.18b4e937.js.map",
     "791.c030af45.chunk.css.map": "/static/css/791.c030af45.chunk.css.map",
     "791.494caa33.chunk.js.map": "/static/js/791.494caa33.chunk.js.map",
     "430.6cd31d9f.chunk.css.map": "/static/css/430.6cd31d9f.chunk.css.map",
     "430.8cfd8672.chunk.js.map": "/static/js/430.8cfd8672.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89bca362.css",
-    "static/js/main.8990b113.js"
+    "static/css/main.9d8ada2e.css",
+    "static/js/main.18b4e937.js"
   ]
 }
